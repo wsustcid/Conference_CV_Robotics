@@ -3,7 +3,7 @@
  * @Github: https://github.com/wsustcid
  * @Version: 1.0.0
  * @Date: 2020-06-06 08:28:50
- * @LastEditTime: 2020-06-27 09:47:28
+ * @LastEditTime: 2020-07-12 17:31:26
  * @Description:  
 --> 
 # Deecamp
@@ -364,3 +364,100 @@ address the problem of resource allocation given computational constraint
 
 
 ## 0628-张宏江 人工智能的发展和投资思考
+
+**ML学术研究现状**
+1. 第一代人工智能：知识驱动的符号模型
+2. 第三代人工智能： 可信，可靠，安全，高性能  -> 知识驱动+数据驱动 (思考：如何将人类已有知识交给NN,标签是一种形式，如何结合模型？建模是人类的知识的结晶)
+   - 新能力，安全性，抗攻击，高性能，下一代
+
+<img src=./assets/ai_history.png width=500>
+
+<img src=./assets/ai_history_1.png width=500>
+
+3. AI的发展是为人类服务的：新三定律
+   - AI 需要保护人的隐私 (Federated Learning)
+   - AI 需要保护模型的安全
+   - AI 需要人类伙伴的理解 (可解释性)
+
+4. 科学发展的四范式
+<img src=./assets/scientific.png width=500>
+
+5. 数据的局限性（你如何找到所有相关的数据？光靠视觉或激光雷达的数据够吗？）
+
+<img src=./assets/data.png width=500>
+
+6. Next Decade of AI (or Deep learning) - 这个还是看得比较近
+<img src=./assets/ai_future.png width=500>
+
+7. The causal Science Revolution: （更远的思路）
+   From data to policies, to expalnations, mechanisms, generalizations ,credit and blame, fairness, creativity, adn free wil.
+
+8. hierarchy
+<img src=./assets/hierarchy.png width=500>
+
+9. The decision-making side of machine learning will be a focus in the future.
+  - sequences of decisions
+
+<img src=./assets/ai_history_2.png width=500>
+
+**AI的应用与未来**
+<img src=./assets/ai_app_2.png width=500>
+
+<img src=./assets/ai_ability.png width=500>
+
+
+## 我的一些思考：
+1. 尽量不要试图去预测未来的或即将要火的研究方向：(做科研的角度)
+   - 你预测对了，大佬们早就预测到了，并且已经开始写了，等你做出来，大量的已经发表了
+   - 你预测错了，又瞎折腾了一波，纯粹浪费时间
+2. 踏踏实实做自己的层次的研究，不一定最新，不一定最先进，只要有自己的思考，自己的工作量就是一个比较好的工作
+
+
+## 0704: 补看！！！
+
+
+## 0705: 徐辉-技术产品与商业落地的AI+双轮驱动
+
+### 创新奇智 AI2.0 双轮驱动实践
+1. 蒸汽机(1760-1830) -> 电气化(1870-1914) -> 信息通信技术(1950-2015) -> AI技术(2016-)
+2. AI1.0: 博士+论文； AI2.0: 商业价值+结果; 产品 -> 解决方案 -> 平台
+3. 制造，金融，零售 是AI 赛道中天花板最高、落地最快的企业
+
+## 0711: 联合国项目介绍
+
+## 0712: 计算机视觉：过去、现在和未来 -田奇 (华为诺亚方舟计算机视觉首席科学家)
+### 概述
+**计算机视觉为什么很难：**
+ - 几何信息对视觉很重要
+ - 人类视觉存在 "视错觉" 现象
+ - 人类习惯想象与联想（卡通，漫画等）：人眼很容易理解表情
+ - 人眼具有三维感知能力
+
+**计算机视觉的挑战**
+ - 语义鸿沟：底层视觉特征(pixel value) 和高层语义概念之间的关系
+ - 缺乏常识：计算机不会犯小错误，会犯大错误; 其表现完全依赖于训练数据
+ - 人类具有3D感知能力，计算机没有：很多场景下需要理解 尺寸、深度等概念
+
+### 发展例程
+<img src=./assets/vision_1.png width=500>
+<img src=./assets/vision_2.png width=500>
+<img src=./assets/vision_3.png width=500>
+<img src=./assets/vision_4.png width=500>
+<img src=./assets/vision_5.png width=500>
+<img src=./assets/vision_6.png width=500>
+
+之后进入深度学习时代...
+
+<img src=./assets/vision_7.png width=500>
+<img src=./assets/vision_8.png width=500>
+
+
+<img src=./assets/vision_9.png width=500>
+
+### 无人驾驶介绍
+<img src=./assets/ad_1.png width=500>
+<img src=./assets/ad_2.png width=500>
+<img src=./assets/ad_3.png width=500>
+
+### 华为视觉
+<img src=./assets/hw_1.png width=500>
